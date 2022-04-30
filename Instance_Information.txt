@@ -1,0 +1,18 @@
+Number of Jobs , Number of Stages , Number of Machines , Number of Workers, Number of Reentrance, Number of Operations, Sum of all processing times
+Every row = 1 Stage
+First is the number of m Machines at that stage
+Then there is the number w  of Workers, working at that stage
+Then according to m, there are m Machines Id`s
+according to w there are W Worker id`s
+
+Every row = 1 Job
+First number is the number of n Operations of that Job;
+According to that number there are n pairs (Stage Id, Processing time)
+
+Every row = 1 Worker
+First number is the Worker Id, second number is the number of stages s he can work on.
+According to s there are s Stage Id´s.
+
+
+
+
